@@ -40,6 +40,7 @@ dnspython = "==2.3.0"
 idna = "==3.4"
 pyjwt = "==2.6.0"
 importlib-metadata = "*"
+importlib-resources = "*"
 
 [requires]
 python_version = "3.10"
